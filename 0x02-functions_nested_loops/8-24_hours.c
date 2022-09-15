@@ -1,4 +1,5 @@
 #include "main.h"
+#include <unistd.h>
 /**
  * jack_bauer -prints every minute of the day
  * Description: function prints every minute in one day
