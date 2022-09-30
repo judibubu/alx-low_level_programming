@@ -8,12 +8,12 @@
  */
 int square_root(int a, int b)
 {
-if ((a * ) == b)
-	return (a);
+if ((a * a) == b)
+return (a);
 else if ((a * a) > b)
-	return (-1);
+return (-1);
 else
-	return (square_root((a + 1), b));
+return (square_root((a + 1), b));
 }
 
 /**
